@@ -1,7 +1,7 @@
 criaCartao(
     'Ruim',
-    'Por que a galinha bateu a cabeça na parede?',
-    'Para achar o galo.'
+    'Oque o galo foi fazer na delegacia?',
+    'Soltar a Franga'
 )
 
 criaCartao(
